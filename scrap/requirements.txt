@@ -1,0 +1,4 @@
+selenium
+pymongo
+pymupdf
+pdfminer
